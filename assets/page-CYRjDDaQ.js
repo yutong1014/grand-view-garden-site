@@ -1,0 +1,43 @@
+import{f as e,l as t,m as n,p as r,u as i}from"./main-Bm3rKye1.js";var a=n(r(),1),o={id:`prelude`,title:`〈紅樓夢曲〉引子`,people:[],text:`開闢鴻蒙，誰為情種？都只為風月情濃。
+奈何天，傷懷日，寂寥時，試遣愚衷：
+因此上，演出這懷金悼玉的《紅樓夢》。`,summary:`以「情」引出全書，為人物的相遇、牽掛與悲劇揭開序幕。`},s=[{id:`zhongshenwu`,title:`終身誤`,people:[`林黛玉`,`薛寶釵`],text:`都道是金玉良緣，俺只念木石前盟。
+空對著，山中高士晶瑩雪；終不忘，世外仙姝寂寞林。
+嘆人間，美中不足今方信：縱然是齊眉舉案，到底意難平！`,summary:`以寶玉的口吻，把世人認可的婚姻與心中難忘的感情並置。`,notes:`「金玉良緣」連到寶玉與寶釵；「木石前盟」連到寶玉與黛玉。「雪」「林」分別暗扣薛、林。此曲牽涉三人關係，不只是一位女子的自述。`},{id:`wangningmei`,title:`枉凝眉`,people:[`林黛玉`],text:`一個是閬苑仙葩，一個是美玉無瑕。
+若說沒奇緣，今生偏又遇著他；若說有奇緣，如何心事終虛話？
+一個枉自嗟呀，一個空勞牽掛。一個是水中月，一個是鏡中花。
+浪想眼中能有多少淚珠兒，怎經得秋流到冬，春流到夏！`,summary:`有緣相遇卻難以圓滿，水中月、鏡中花寫出可望而難得的感情。`,notes:`「無瑕」指沒有瑕疵；「浪想」可理解為空想。黛玉與寶玉的牽掛，在反覆的「一個」中彼此映照。`},{id:`henwuchang`,title:`恨無常`,people:[`賈元春`],text:`喜榮華正好，恨無常又到。眼睜睜，把萬事全拋；蕩悠悠，芳魂消耗。
+望家鄉，路遠山高。故向爹娘夢裡相尋告：
+兒命已入黃泉，天倫呵，須要退步抽身早！`,summary:`榮華正盛，死亡卻突然到來；深宮與家鄉的距離，使尊貴帶上孤寂。`,notes:`末句向親人示警：身處權勢與榮華，仍須思考退步抽身。`},{id:`xiyuanjia`,title:`喜冤家`,people:[`賈迎春`],text:`中山狼，無情獸。全不念當日根由。一味的，驕奢淫蕩貪歡媾。
+覷著那，侯門艷質同蒲柳；作賤的，公府千金似下流。
+嘆芳魂艷魄，一載蕩悠悠。`,summary:`以「中山狼」指忘恩負義的丈夫，寫迎春在婚姻中的受辱與悲劇。`,notes:`「喜」與「冤家」形成反差：婚姻原該帶來幸福，卻成為傷害。曲中的貶抑語言用來描寫施暴者如何對待她，不是學生對受害者的評語。`},{id:`fengurou`,title:`分骨肉`,people:[`賈探春`],text:`一帆風雨路三千，把骨肉家園，齊來拋閃。恐哭損殘年。
+告爹娘，休把兒懸念；
+自古窮通皆有定，離合豈無緣？從今分兩地，各自保平安。
+奴去也，莫牽連。`,summary:`遠行與親人分離，探春一面難捨，一面勸慰家人保重。`,notes:`「骨肉」指親人；「拋閃」是離開、拋下。與判詞的船、江邊送別意象對讀。`},{id:`xuhuawu`,title:`虛花悟`,people:[`賈惜春`],text:`將那三春看破，桃紅柳綠待如何？把這韶華打滅，覓那清淡天和。
+說什麼天上夭桃盛，雲中杏蕊多？到頭來，誰見把秋捱過？
+則看那，白楊村裡人嗚咽，青楓林下鬼吟哦。更兼著，連天衰草遮墳墓。
+這的是，昨貧今富人勞碌，春榮秋謝花折磨。
+似這般，生關死劫誰能躲？
+聞說道，西方寶樹喚婆娑，上結著長生果。`,summary:`看透青春、富貴與生命難以長久，轉而尋找清淡的修行生活。`,notes:`春花、秋謝與墳墓層層推進，把繁華消逝寫成普遍的人生處境；出家是人物的選擇與小說的命運安排，並非唯一的人生答案。`},{id:`congming-lei`,title:`聰明累`,people:[`王熙鳳`],text:`機關算盡太聰明，反誤了卿卿性命。生前心已碎，死後性空靈。
+家富人寧，終有個家亡人散各奔騰。
+枉費了，意懸懸半世心；好一似，蕩悠悠三更夢。
+忽喇喇似大廈傾，昏慘慘似燈將盡。
+呀！一場歡喜忽悲辛。嘆人世，終難定！`,summary:`才幹與算計未能保住自己和家族，繁華傾倒如夢醒、燈滅。`,notes:`「聰明」與「反誤」形成反諷。可以與本課鳳姐安排事務、設計逗趣的能力對照，但不能只憑本課一場玩笑推定她全部的命運。`},{id:`lezhongbei`,title:`樂中悲`,people:[`史湘雲`],text:`襁褓中，父母嘆雙亡。縱居那綺羅叢，誰知嬌養？
+幸生來，英豪闊大寬宏量，從未將兒女私情，略縈心上。
+好一似，霽月光風耀玉堂。廝配得才貌仙郎，博得個地久天長。
+準折得幼年時坎坷形狀。終久是雲散高唐，水涸湘江。
+這是塵寰中消長數應當，何必枉悲傷？`,summary:`爽朗寬宏的湘雲，從幼年失怙到似得幸福，最後仍難留住相聚。`,notes:`「霽月光風」映照明朗氣質；「雲散」「水涸」與判詞畫的飛雲、逝水連成聚散意象。`},{id:`shinanrong`,title:`世難容`,people:[`妙玉`],text:`氣質美如蘭，才華馥比仙，天生成孤癖人皆罕。
+你道是啖肉食腥膻，視綺羅俗厭；卻不知好高人愈妒，過潔世同嫌。
+可嘆這，青燈古殿人將老，辜負了，紅粉朱樓春色闌！
+到頭來，依舊是風塵骯髒違心願。好一似，無瑕白玉遭泥陷。
+又何須，王孫公子嘆無緣？`,summary:`清潔與超脫的理想，碰上世俗的排斥與難以自主的處境。`,notes:`「白玉遭泥陷」把珍貴才質與污濁環境對照，不宜讀成落難者本身有罪。「無瑕」採沒有瑕疵之意，校正提供文字中的「無暇」。`},{id:`wanshaohua`,title:`晚韶華`,people:[`李紈`],text:`鏡裡恩情，更哪堪夢裡功名！那美韶華去之何迅！再休提繡帳鴛衾。
+只這戴珠冠，披鳳襖，也抵不了無常性命。
+雖說是，人生莫受老來貧，也須要陰騭積兒孫。
+氣昂昂頭戴簪纓，光燦燦胸懸金印，威赫赫爵祿高登，昏慘慘黃泉路近！
+問古來將相可還存？也只是虛名兒與後人欽敬。`,summary:`遲來的母以子貴，仍難補償逝去的青春，也抵不過生命有限。`,notes:`「韶華」是美好的青春；「珠冠」「鳳襖」對應判詞畫的鳳冠霞帔。這是李紈日後獲榮的命運意象，不是王熙鳳，也不是本課的衣著。`},{id:`haoshizhong`,title:`好事終`,people:[`秦可卿`],text:`畫樑春盡落香塵。擅風情，秉月貌，便是敗家的根本。
+箕裘頹墮皆從敬，家事消亡首罪寧，宿孽總因情。`,summary:`把人物悲劇連到寧國府的家族衰敗，語言帶有強烈的道德評價。`,notes:`「敬」暗扣賈敬，「寧」指寧國府。閱讀時分清作品敘述立場與自己的判斷，不把家族敗落簡單歸罪於一名女子。`},{id:`liuyuqing`,title:`留餘慶`,people:[`巧姐`],text:`留餘慶，留餘慶，忽遇恩人；幸親娘，幸親娘，積德陰功。
+勸人生，濟困扶窮，休似俺那愛銀錢、忘骨肉的狠舅奸兄！
+正是乘除加減，上有蒼穹。`,summary:`母親曾接濟劉姥姥的善緣，成為巧姐落難時得到救助的契機。`,notes:`與本課待客、人情往來相連；富貴或血緣都未必可靠，善意卻可能在日後回返。`}],c={id:`finale`,title:`飛鳥各投林`,people:[],text:`為官的，家業凋零；富貴的，金銀散盡；有恩的，死裡逃生；無情的，分明報應。
+欠命的，命已還；欠淚的，淚已盡。冤冤相報實非輕，分離聚合皆前定。
+欲知命短問前生，老來富貴也真僥倖。看破的，遁入空門；癡迷的，枉送了性命。
+好一似食盡鳥投林，落了片白茫茫大地真乾淨。`,summary:`以鳥散、家亡、人離寫繁華消逝，收束全書人物的命運預示。`,notes:`曲中有因果、前定等觀念，屬小說的敘述語言；可以思考它如何看待責任與命運，不必直接當成現實定律。`},l=e=>s.filter(t=>t.people.includes(e)),u=e();function d({song:e}){return(0,u.jsxs)(`article`,{className:`song-reading`,children:[(0,u.jsxs)(`h2`,{children:[`〈`,e.title.replace(/[〈〉]/g,``),`〉`]}),(0,u.jsx)(`p`,{className:`song-summary`,children:e.summary}),(0,u.jsx)(`div`,{className:`song-verses`,children:e.text.split(`
+`).map((e,t)=>(0,u.jsx)(`p`,{children:e},t))}),e.notes&&(0,u.jsxs)(`details`,{children:[(0,u.jsx)(`summary`,{children:`詞語與閱讀提醒`}),(0,u.jsx)(`p`,{children:e.notes})]})]})}function f(){let[e,n]=(0,a.useState)(`李紈`);return(0,a.useEffect)(()=>{let e=new URLSearchParams(location.search).get(`name`);i.some(t=>t.name===e)&&n(e)},[]),(0,u.jsxs)(`main`,{className:`songs-page`,children:[(0,u.jsxs)(`nav`,{children:[(0,u.jsx)(`a`,{href:`/grand-view-garden-site/verdict-preview/`,children:`回人物判詞`}),` · `,(0,u.jsx)(`a`,{href:`/grand-view-garden-site/`,children:`回遊園遊戲`})]}),(0,u.jsx)(`h1`,{children:`紅樓夢曲・延伸選讀`}),(0,u.jsx)(`p`,{children:`曲詞把人物命運唱成更長的感嘆；本頁選讀不計入闖關條件。可與判詞對照，也可讀完後直接回遊戲。`}),(0,u.jsx)(`nav`,{className:`character-book-tabs`,"aria-label":`曲詞人物`,children:i.map(t=>(0,u.jsx)(`button`,{type:`button`,"aria-pressed":e===t.name,onClick:()=>n(t.name),children:t.name},t.name))}),(0,u.jsxs)(`section`,{className:`songs-character`,children:[(0,u.jsx)(`img`,{src:t[e].src,alt:t[e].alt}),(0,u.jsx)(`h2`,{children:e})]}),(0,u.jsxs)(`details`,{className:`song-frame`,children:[(0,u.jsx)(`summary`,{children:`先讀〈紅樓夢曲〉引子`}),(0,u.jsx)(d,{song:o})]}),l(e).map(e=>(0,u.jsx)(d,{song:e},e.id)),(0,u.jsxs)(`details`,{className:`song-frame`,children:[(0,u.jsx)(`summary`,{children:`再讀終曲〈飛鳥各投林〉`}),(0,u.jsx)(d,{song:c})]}),(0,u.jsxs)(`p`,{className:`song-source`,children:[`曲詞依教師提供的文本整理；標點與分行便於閱讀。`,(0,u.jsx)(`a`,{href:`https://zh.wikisource.org/zh-hant/紅樓夢/第005回`,target:`_blank`,rel:`noreferrer`,children:`對照原著第五回 ↗`}),`；不同版本有異文，本文不將一種解讀當作唯一答案。`]})]})}export{f as default};
