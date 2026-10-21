@@ -1,4 +1,4 @@
-import{d as e,f as t,g as n,h as r,m as i}from"./main-LlxV4Ul2.js";import{t as a}from"./VerdictResources-Hszkat4i.js";var o=n(r(),1),s={id:`prelude`,title:`〈紅樓夢曲〉引子`,people:[],text:`開闢鴻蒙，誰為情種？都只為風月情濃。
+import{d as e,f as t,g as n,h as r,m as i}from"./main-DxzZLTMc.js";import{t as a}from"./VerdictResources-DucVPO91.js";var o=n(r(),1),s={id:`prelude`,title:`〈紅樓夢曲〉引子`,people:[],text:`開闢鴻蒙，誰為情種？都只為風月情濃。
 奈何天，傷懷日，寂寥時，試遣愚衷：
 因此上，演出這懷金悼玉的《紅樓夢》。`,summary:`以「情」引出全書，為人物的相遇、牽掛與悲劇揭開序幕。`},c=[{id:`zhongshenwu`,title:`終身誤`,people:[`林黛玉`,`薛寶釵`],text:`都道是金玉良緣，俺只念木石前盟。
 空對著，山中高士晶瑩雪；終不忘，世外仙姝寂寞林。
